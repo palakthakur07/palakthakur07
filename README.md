@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=palakthakur07">
-    <img src="https://komarev.com/ghpvc/?username=palakthakur07&label=Profile%20views&color=00FFFF&style=flat-square" alt="palakthakur07's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=palakthakur07&label=Profile%20views&color=6C5389&style=flat-square" alt="palakthakur07's profile views" />
   </a>
 </p>
 
@@ -84,9 +84,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=palakthakur07&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
-![Top language](https://stats.pphat.top/languages?username=palakthakur07)
-<br/>
 
 ## 🔗 Connect with Me
 <p align="center">
