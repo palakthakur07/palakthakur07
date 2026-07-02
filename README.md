@@ -69,6 +69,29 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=palakthakur07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
+&nbsp;
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakriti0207&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<br/><br/>
+ 
+<img src="https://streak-stats.demolab.com?user=palakthakur07&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+---
+ 
+## 🗓️ Contribution Heatmap
+ 
+<div align="center">
+  
+[![Aakriti's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=palakthakur07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6366f1&point=a78bfa&area=true&area_color=6366f1)](https://github.com/Aakriti0207)
+ 
+</div>
+
+---
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="www.linkedin.com/in/palakthakur2007">
